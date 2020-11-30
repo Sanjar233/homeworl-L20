@@ -20,6 +20,15 @@
   height: 150px;
   width: 30%;
 }
-.door_color_green{
+.door_color_grey{
   background-color: grey;
+}
+.door_color_black{
+  background-color: black;
+}
+.frame_color_black{
+  background-color: black;
+}
+.window_color_black{
+  background-color: black;
 }
